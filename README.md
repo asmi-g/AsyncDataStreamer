@@ -6,6 +6,12 @@
 * Uses ADC channels and GPIO interrupts to ensure timely and accurate sensor readings.
 * Uses UART serial communication to write and display data, and SPI communication to interface with the SD card module, for storing sensor data.
 
+#### Software Block Diagram
+![alt text](assets/sw-diagram.png)
+
+#### Wiring Diagram
+![alt text](assets/wiring.png)
+
 
 #### Resources
 
